@@ -1,0 +1,17 @@
+{
+  "title": "Asshou",
+  "description": "<manga description>",
+  "artist": "Shouko",
+  "author": "Shouko",
+  "cover": "https://i.imgur.com/X0Mrexd.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Ad Infinitum": "/proxy/api/imgur/chapter/fu6NO6u/"
+      },
+      "last_updated": "1617969214"
+    }
+  }
+}
