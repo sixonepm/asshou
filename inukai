@@ -92,6 +92,22 @@
         "Ad Infinitum": "/proxy/api/imgur/chapter/lFmaIEw/"
       },
       "last_updated": "1619053534"
+    },
+    "16": {
+      "title": "Dog Bath",
+      "volume": "2",
+      "groups": {
+        "Ad Infinitum": "/proxy/api/imgur/chapter/bikLY6x/"
+      },
+      "last_updated": "1619053534"
+    },
+    "17": {
+      "title": "Dog Bath",
+      "volume": "3",
+      "groups": {
+        "Ad Infinitum": "/proxy/api/imgur/chapter/NstUwux/"
+      },
+      "last_updated": "1619053534"
     }
   }
 }
