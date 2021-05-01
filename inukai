@@ -1,8 +1,8 @@
 {
   "title": "My Life as Inukai-san's Dog",
   "description": "A little ecchi comedy where you are being kept by a cool, beautiful girl! When you woke up, you found yourself as the pet dog of a girl named Inukai-san!",
-  "artist": "Gosei Furukawa",
-  "author": "Gosei Furukawa",
+  "artist": "Furukawa Gosei",
+  "author": "Furukawa Gosei",
   "cover": "https://shop.r10s.jp/book/cabinet/7343/9784065227343.jpg",
   "chapters": {
     "7": {
@@ -108,6 +108,14 @@
         "Ad Infinitum": "/proxy/api/imgur/chapter/NstUwux/"
       },
       "last_updated": "1618070400"
+    },
+    "18": {
+      "title": "Anemone's Promise",
+      "volume": "3",
+      "groups": {
+        "Ad Infinitum": "/proxy/api/imgur/chapter/tX2dBIk/"
+      },
+      "last_updated": "1619867317"
     }
   }
 }
