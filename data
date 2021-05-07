@@ -60,6 +60,13 @@
         "Ad Infinitum": "/proxy/api/imgur/chapter/kBPhi70/"
       },
       "last_updated": "1620128494"
-    }
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "1",
+      "groups": {
+        "Ad Infinitum": "/proxy/api/imgur/chapter/bJfzuLC/"
+      },
+      "last_updated": "1620128494"
   }
 }
