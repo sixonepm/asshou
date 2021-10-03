@@ -3,8 +3,15 @@
   "description": "Iinuma, a somewhat dull salaryman, eats food as his craving drives him! This is an appetite-stimulating gourmet manga where you can just watch him eat his food!",
   "artist": "Amida Muku",
   "author": "Amida Muku",
-  "cover": "https://i.imgur.com/weJhu2G.png",
+  "cover": "https://i.imgur.com/IebB51w.png",
   "chapters": {
-    
+    "1": {
+      "title": "Right, Let's Eat Katsudon...",
+      "volume": "1",
+      "groups": {
+        "Ad Infinitum": "/proxy/api/imgur/chapter/UnTcwQP/"
+      },
+      "last_updated": "1633219569"
+    }
   }
 }
