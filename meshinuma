@@ -1,6 +1,6 @@
 {
   "title": "Meshinuma.",
-  "description": "Iinuma, a somewhat dull salaryman, eats food as his craving drives him! This is an appetite-stimulating gourmet manga where you can just watch him eat his food!",
+  "description": "Iinuma, a somewhat dull salaryman, eats food as his craving drives him! This is an appetite-stimulating gourmet manga where you can just watch him eating his food!",
   "artist": "Amida Muku",
   "author": "Amida Muku",
   "cover": "https://i.imgur.com/IebB51w.png",
@@ -12,6 +12,14 @@
         "Ad Infinitum": "/proxy/api/imgur/chapter/UnTcwQP/"
       },
       "last_updated": "1633219569"
+    },
+    "2": {
+      "title": "Ah... I Want to Eat Pizza Bun",
+      "volume": "1",
+      "groups": {
+        "Ad Infinitum": "/proxy/api/imgur/chapter/vOkJpWL/"
+      },
+      "last_updated": "1633829232"
     }
   }
 }
