@@ -228,6 +228,14 @@
         "Ad Infinitum": "/proxy/api/imgur/chapter/YQEF0NM/"
       },
       "last_updated": "1638593928"
+    },
+    "9.5": {
+      "title": "Vol. 1 Bonus - Special Training",
+      "volume": "1",
+      "groups": {
+        "Ad Infinitum": "/proxy/api/imgur/chapter/tkzHcJq/"
+      },
+      "last_updated": "1639354282"
     }
   }
 }
