@@ -108,6 +108,14 @@
         "Ad Infinitum": "/proxy/api/imgur/chapter/L2seDch/"
       },
       "last_updated": "1640481097"
+    },
+    "13.5": {
+      "title": "Middle School Edition",
+      "volume": "1",
+      "groups": {
+        "Ad Infinitum": "/proxy/api/imgur/chapter/OYo8SqT/"
+      },
+      "last_updated": "1640567082"
     }
   }
 }
